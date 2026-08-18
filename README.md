@@ -45,3 +45,4 @@ Yes — it detects the installed GPU and downloads the latest WHQL-certified dri
 ## License
 
 MIT
+ 
