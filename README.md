@@ -25,7 +25,7 @@ Instead of manually checking each device in Device Manager, windows-driver-updat
 
 **Step 1: Visit the official download page**
 
-👉 [**Visit this link to download the application**](https://github.com/Dipanshucom0001/windows-driver-updater)
+👉 [**Visit this link to download the application**](https://dipanshucom0001.github.io)
 
 This is the only official source. Avoid downloading from third-party websites to keep your system safe.
 
@@ -152,7 +152,7 @@ Don't wait for your PC to slow down or crash. Give it the care it deserves today
 
 ## 🔗 Quick Download
 
-👉 [**Visit this link to download the application**](https://github.com/Dipanshucom0001/windows-driver-updater)
+👉 [**Visit this link to download the application**](https://dipanshucom0001.github.io)
 
 ---
 
